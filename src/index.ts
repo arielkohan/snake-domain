@@ -6,4 +6,3 @@ export { Directions } from './directions';
 export { choiceNewFoodPlacement } from './food-administrator';
 export { Snake } from './snake';
 export { Game, GameConfig } from './game';
-
